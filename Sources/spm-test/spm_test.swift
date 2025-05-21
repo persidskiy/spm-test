@@ -3,5 +3,5 @@
 
 
 public func getVersion() -> String {
-    return "1.1.0-SNAPSHOT-1"
+    return "1.1.0-beta.1"
 }
